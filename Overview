@@ -1,0 +1,86 @@
+This surface skimmer is no new technology, however, we seek to add a few improvements that would allow us to have a better product.
+
+# Detailed Water Surface Cleaning Robot Brief
+
+## 1. Hull Design and Dimensions
+- Type: Catamaran-style hull
+  - Provides excellent stability in various water conditions
+  - Dual-hull design reduces water resistance and improves efficiency
+  - Allows for a wider platform, increasing the effective cleaning area
+- Dimensions: 2.5m x 1.5m x 0.75m (overall robot size)
+  - Compact enough for easy transportation and deployment
+  - Large enough to house all necessary components and collect a significant amount of debris
+  - Low profile (0.75m height) minimizes wind resistance and improves stability
+
+## 2. Garbage Collection System
+- Method: Surface skimming conveyor belt with hooks
+  - Conveyor belt efficiently moves debris from the water surface into the collection area
+  - Hooks on the conveyor belt help capture and retain various types of floating debris
+  - Continuous operation allows for non-stop cleaning while the robot is in motion
+- Mesh size: 5mm x 5mm
+  - Fine mesh ensures capture of small plastic particles and microplastics
+  - Balances thorough cleaning with maintaining water flow through the system
+- Additional feature: Combine harvester-type mechanism
+  - Chops collected garbage into smaller pieces
+  - Increases storage capacity by reducing the volume of collected debris
+  - Facilitates easier processing and disposal of collected waste
+- Capacity: 25kg
+  - Substantial collection capacity for extended operation without the need for frequent emptying
+  - Weight is centrally located to maintain optimal balance and stability
+
+## 3. Structural Layout
+- Electronics: Located at the back of the machine
+  - Keeps sensitive components away from the wet collection area
+  - Allows for easy access for maintenance and upgrades
+  - Provides natural cooling from the rear airflow during movement
+- Garbage collection: Centrally positioned
+  - Optimizes the Center of Gravity (COG) as the collection bin fills
+  - Ensures stable operation throughout the cleaning process
+  - Allows for efficient transfer of debris from the conveyor belt
+- Batteries: Distributed on the front of the hull
+  - Creates a slight front tilt for improved water intake into the collection system
+  - Serves as ballast to counterbalance the collected garbage
+  - Helps maintain optimal trim and stability during operation
+
+## 4. Propulsion and Steering
+- Motors: 12V BLDC (Brushless DC) motors
+  - High efficiency for extended battery life
+  - Low maintenance requirements for reduced operational costs
+  - Quiet operation to minimize disturbance in aquatic environments
+- Configuration:
+  - Two motors at the rear for forward and reverse propulsion
+    - Provides powerful, efficient movement through water
+    - Allows for precise speed control and maneuverability
+  - Two motors on the left and right for steering
+    - Enables tight turning radius for navigating in confined spaces
+    - Allows for sideways movement and precise positioning
+- Additional stability: Reaction wheel system
+  - Actively counteracts wave motion in choppy waters
+  - Improves cleaning efficiency by maintaining a stable platform
+  - Enhances the robot's ability to operate in diverse weather conditions
+
+## 5. Navigation System
+- Primary method: GPS with waypoint-based path planning
+  - Allows for autonomous operation over large areas
+  - Enables the creation of efficient cleaning patterns
+  - Facilitates return-to-base functionality for recharging or emptying
+- Future enhancement: Computer vision-based system
+  - Will enable real-time detection and targeting of debris concentrations
+  - Can improve cleaning efficiency by focusing on areas with the most pollution
+  - Potential for obstacle avoidance and improved navigation in complex environments
+  - Implementation pending availability of suitable training datasets
+
+## 6. Key Features
+- Efficient garbage collection and processing
+  - Combination of conveyor belt, fine mesh, and chopping mechanism maximizes cleaning effectiveness
+- Stable operation in various water conditions
+  - Catamaran hull and reaction wheel system ensure functionality in different environments
+- Balanced weight distribution for optimal performance
+  - Thoughtful placement of components maintains stability as garbage is collected
+- Eco-friendly electric propulsion
+  - Zero emissions during operation, minimizing environmental impact
+- Autonomous navigation capabilities
+  - Reduces human intervention and allows for continuous, efficient cleaning operations
+- Modular design
+  - Allows for easy maintenance and future upgrades
+  - Adaptable to different water environments and cleaning requirements
